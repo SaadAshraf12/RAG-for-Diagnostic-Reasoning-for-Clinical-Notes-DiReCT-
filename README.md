@@ -79,9 +79,3 @@ Parse JSON files containing medical diagnosis steps and clinical case notes into
 * Add support for other language models (e.g., LLaMA, Claude)
 
 ---
-
-
----
-
-
-Let me know if you'd like a `requirements.txt` file generated or a badge-style README version.
